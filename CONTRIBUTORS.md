@@ -510,6 +510,8 @@
 
 - [@PritamRane](https://github.com/PritamRane)
 
+- [@priyal18](https://github.com/priyal18/)
+
 - [@Pyzyryab](httts://github.com/Pyzyryab)
 
 - [@QamarFarooq](https://github.com/QamarFarooq)
